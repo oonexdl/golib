@@ -20,3 +20,5 @@
   - https://github.com/labstack/gommon/log
 - validator
   - https://github.com/go-playground/validator
+- httpClient
+  - https://github.com/ddliu/go-httpclient
