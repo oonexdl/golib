@@ -24,3 +24,5 @@
   - https://github.com/ddliu/go-httpclient
 - json parse
   - https://github.com/tidwall/gjson
+- params validator
+  - https://github.com/go-playground/validator
