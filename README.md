@@ -28,3 +28,4 @@
   - https://github.com/go-playground/validator
 - tests
   - https://github.com/stretchr/testify
+  - https://github.com/vektra/mockery
