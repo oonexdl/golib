@@ -26,3 +26,5 @@
   - https://github.com/tidwall/gjson
 - params validator
   - https://github.com/go-playground/validator
+- tests
+  - https://github.com/stretchr/testify
