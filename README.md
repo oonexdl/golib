@@ -8,6 +8,7 @@
   - https://github.com/jmoiron/sqlx
 - mongodb
   - https://github.com/qiniu/qmgo
+  - go.mongodb.org/mongo-driver/mongo // 可以直接用官方的，毕竟开发维护有保证
 - redis
   - https://github.com/garyburd/redigo/redis
 - copy value
@@ -29,3 +30,4 @@
 - tests
   - https://github.com/stretchr/testify
   - https://github.com/vektra/mockery
+  - https://github.com/golang/mock // 官方的方案，跟上面两个差不多
