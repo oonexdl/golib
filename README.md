@@ -32,4 +32,7 @@
   - https://github.com/vektra/mockery
   - https://github.com/golang/mock // official
 - tracing
+  - https://github.com/opentracing/specification
   - https://github.com/opentracing/opentracing-go
+  - https://github.com/openzipkin/zipkin-go
+  - https://github.com/jaegertracing/jaeger-client-go
