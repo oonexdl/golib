@@ -1,6 +1,6 @@
 # golib
 
-搜集优秀的 golang 库函数集合，绝不重复造轮子。保持更新，优胜劣汰。
+整理优秀的 golang 库函数集合，绝不重复造轮子。保持更新，优胜劣汰。
 
 # popular lib
 
@@ -31,3 +31,5 @@
   - https://github.com/stretchr/testify
   - https://github.com/vektra/mockery
   - https://github.com/golang/mock // official
+- tracing
+  - https://github.com/opentracing/opentracing-go
