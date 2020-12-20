@@ -36,3 +36,5 @@
   - https://github.com/opentracing/opentracing-go
   - https://github.com/openzipkin/zipkin-go
   - https://github.com/jaegertracing/jaeger-client-go
+- circuit breaker
+  - https://github.com/afex/hystrix-go
