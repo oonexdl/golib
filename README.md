@@ -8,7 +8,7 @@
   - https://github.com/jmoiron/sqlx
 - mongodb
   - https://github.com/qiniu/qmgo
-  - https://go.mongodb.org/mongo-driver/mongo // official
+  - https://github.com/mongodb/mongo-go-driver // official
 - redis
   - https://github.com/garyburd/redigo/redis
 - copy value
