@@ -17,6 +17,8 @@
   - https://github.com/spf13/viper
 - log
   - https://github.com/sirupsen/logrus
+- errors
+  - https://github.com/pkg/errors
 - validator
   - https://github.com/go-playground/validator
 - httpClient
