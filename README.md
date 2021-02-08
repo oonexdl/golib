@@ -38,3 +38,5 @@
   - https://github.com/jaegertracing/jaeger-client-go
 - circuit breaker
   - https://github.com/afex/hystrix-go
+- grpc
+  - https://github.com/grpc-ecosystem/go-grpc-middleware
