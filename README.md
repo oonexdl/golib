@@ -43,3 +43,4 @@
   - https://github.com/sercand/kuberesolver
   - https://github.com/fullstorydev/grpcurl
   - https://github.com/gogo/protobuf // advanced golang protobuf
+  - https://github.com/mwitkow/go-proto-validators // generate validate code from proto
