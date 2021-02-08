@@ -42,3 +42,4 @@
   - https://github.com/grpc-ecosystem/go-grpc-middleware
   - https://github.com/sercand/kuberesolver
   - https://github.com/fullstorydev/grpcurl
+  - https://github.com/gogo/protobuf // advanced golang protobuf
