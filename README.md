@@ -40,3 +40,4 @@
   - https://github.com/afex/hystrix-go
 - grpc
   - https://github.com/grpc-ecosystem/go-grpc-middleware
+  - https://github.com/sercand/kuberesolver
