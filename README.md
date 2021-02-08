@@ -41,3 +41,4 @@
 - grpc
   - https://github.com/grpc-ecosystem/go-grpc-middleware
   - https://github.com/sercand/kuberesolver
+  - https://github.com/fullstorydev/grpcurl
