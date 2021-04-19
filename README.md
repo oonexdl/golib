@@ -22,7 +22,7 @@
 - validator
   - https://github.com/go-playground/validator
 - httpClient
-  - https://github.com/ddliu/go-httpclient
+  - https://github.com/gojek/heimdall
 - json parse
   - https://github.com/tidwall/gjson
 - params validator
