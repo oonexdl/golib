@@ -1,7 +1,5 @@
 # golib
 
-整理常用的 golang 库函数集合，绝不重复造轮子。保持更新，优胜劣汰。
-
 - mysql
   - https://github.com/jmoiron/sqlx
 - mongodb
