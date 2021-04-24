@@ -35,7 +35,9 @@
   - https://github.com/openzipkin/zipkin-go
   - https://github.com/jaegertracing/jaeger-client-go
 - circuit breaker
+  - https://github.com/Netflix/Hystrix
   - https://github.com/afex/hystrix-go
+  - https://github.com/resilience4j/resilience4j
 - grpc
   - https://github.com/grpc-ecosystem/go-grpc-middleware
   - https://github.com/sercand/kuberesolver
