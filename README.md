@@ -46,3 +46,4 @@
   - https://github.com/mwitkow/go-proto-validators // generate validate code from proto
 - ratelimit
   - https://github.com/uber-go/ratelimit // leaky-bucket
+  - golang.org/x/time/rate // token bucket
