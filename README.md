@@ -47,3 +47,5 @@
 - ratelimit
   - https://github.com/uber-go/ratelimit // leaky-bucket
   - golang.org/x/time/rate // token bucket
+- serialize/deserialize
+  - https://pkg.go.dev/encoding/gob // binary like pb
