@@ -49,3 +49,5 @@
   - golang.org/x/time/rate // token bucket
 - serialize/deserialize
   - https://pkg.go.dev/encoding/gob // binary like pb
+- sync
+  - https://pkg.go.dev/golang.org/x/sync/singleflight // concurrent func exec once only
