@@ -38,6 +38,7 @@
   - https://github.com/Netflix/Hystrix
   - https://github.com/afex/hystrix-go
   - https://github.com/resilience4j/resilience4j
+  - https://github.com/alibaba/sentinel-golang
 - grpc
   - https://github.com/grpc-ecosystem/go-grpc-middleware
   - https://github.com/sercand/kuberesolver
