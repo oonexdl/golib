@@ -52,3 +52,6 @@
   - https://pkg.go.dev/encoding/gob // binary like pb
 - sync
   - https://pkg.go.dev/golang.org/x/sync/singleflight // concurrent func exec once only
+- container
+  - https://github.com/krallin/tini // init0
+ 
